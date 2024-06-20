@@ -40,4 +40,4 @@ U Matter Voice Asssistant (Hope) Preview
 ![image](https://github.com/xexter/Meditation-App/assets/19242254/e1c9fe9b-6236-453a-a35c-12dcbec5a5ab)
 
 
-visit Meditation App here :
+visit Meditation App here :  https://github.com/xexter/Meditation-App
